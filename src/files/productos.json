@@ -1,0 +1,41 @@
+[
+  {
+    "id": 1,
+    "title": "Producto1",
+    "description": "Descripción del producto1",
+    "code": "ABC123",
+    "price": 600,
+    "stock": 10,
+    "category": "Instrumentos",
+    "thumbnails": [
+      "img/imagen1.jpg",
+      "img/imagen2.jpg"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Producto2",
+    "description": "Descripción del producto2",
+    "code": "ABC124",
+    "price": 1000,
+    "stock": 4,
+    "category": "Instrumentos",
+    "thumbnails": [
+      "img/imagen3.jpg",
+      "img/imagen4.jpg"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Producto3",
+    "description": "Descripción del producto3",
+    "code": "ABC125",
+    "price": 2000,
+    "stock": 6,
+    "category": "Instrumentos",
+    "thumbnails": [
+      "img/imagen5.jpg",
+      "img/imagen6.jpg"
+    ]
+  }
+]
